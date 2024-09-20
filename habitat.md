@@ -8,6 +8,6 @@
 
   - Follow https://github.com/matterport/habitat-matterport-3dresearch for checklist
 
-  - Download the proper config.json file from `https://github.com/matterport/habitat-matterport-3dresearch`.
+  - Download the proper config.json file from https://github.com/matterport/habitat-matterport-3dresearch.
   
   `paths {".glb": [xxx] }` is critical for loading the semantic file.
